@@ -1,8 +1,6 @@
-### Hi there 👋
+### Hi there 👋, I'm Ali Tarek Mohamed
 
-<!--
-**Ali-Tarek/Ali-Tarek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+##Student at Faculty of Computers and Artificial Intelligence Cairo University
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
