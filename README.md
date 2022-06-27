@@ -1,6 +1,6 @@
-### Hi there 👋, I'm Ali Tarek Mohamed
+#                     Hi there 👋, I'm Ali Tarek Mohamed
 
-##Student at Faculty of Computers and Artificial Intelligence Cairo University
+### Student at Faculty of Computers and Artificial Intelligence Cairo University
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
