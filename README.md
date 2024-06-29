@@ -10,6 +10,8 @@
 
 - 📫 How to reach me **alitarek115.at@gmail.com**
 
+- 📄 See my [Resume](https://drive.google.com/file/d/1W6juT6_VwWlojxuz1e3lyt_278mDUhlk/view)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/alitarek115" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alitarek115" height="30" width="40" /></a>
