@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **alitarek115.at@gmail.com**
 
-- 📄 See my [Resume](https://drive.google.com/file/d/1h7i17NWs1KdQSMve7KcZajTpkP3JtvAo/view?usp=sharing)
+- 📄 See my [Resume](https://drive.google.com/file/d/17kmfyFTAylfsSOxaNEPJ5VbMnkBAZiSH/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
