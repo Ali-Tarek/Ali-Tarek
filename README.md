@@ -6,11 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/alitarek115" target="blank"><img src="https://img.shields.io/twitter/follow/alitarek115?logo=twitter&style=for-the-badge" alt="alitarek115" /></a> </p>
 
-- 🤝 I’m looking for a **Backend internship**
-
 - 📫 How to reach me **alitarek115.at@gmail.com**
 
-- 📄 See my [Resume](https://drive.google.com/file/d/17kmfyFTAylfsSOxaNEPJ5VbMnkBAZiSH/view?usp=sharing)
+- 📄 See my [Resume](https://drive.google.com/file/d/1musZZ4BRkZ_k1fpuVS41e7g6nevpHaiD/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
