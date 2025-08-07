@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ali Tarek</h1>
-<h3 align="center">Software Enginner | CS Graduatre | Problem Solver</h3>
+<h3 align="center">Software Enginner | CS Graduatre</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ali-tarek&label=Profile%20views&color=0e75b6&style=flat" alt="ali-tarek" /> </p>
@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **alitarek115.at@gmail.com**
 
-- 📄 See my [Resume](https://drive.google.com/file/d/1aCVrsfZTasQfG5o8Lmb8mQfd5YIdnOCT/view?usp=sharing)
+- 📄 See my [Resume](https://drive.google.com/file/d/1N3JJXpu4NkpODEGrApXr2knUcFW9EG_S/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
