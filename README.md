@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Ali Tarek 👋</h1>
 
-<h3 align="center">Full Stack & Backend Software Engineer 💻</h3>
+<h3 align="center">Full Stack & Backend Software Engineer</h3>
 
 <p align="center">
 I am a Computer Science graduate (Cairo University, Class of 2025) specializing in building scalable, high-performance web applications. I'm currently completing my military service and open to full stack and backend opportunities, available from December 2026.
