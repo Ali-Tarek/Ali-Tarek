@@ -12,7 +12,7 @@ Whether it is building real-time Node.js backends, crafting React front ends, or
 
 <p align="center">
   <a href="https://alitarek.vercel.app/">🌐 My Portfolio</a> •
-  <a href="https://drive.google.com/file/d/1ZZ6n-NBA1Mozsk0cdtdqNZo51IL4TITs/view?usp=sharing">📄 My Resume</a>
+  <a href="https://drive.google.com/file/d/17XtNTGPBqCKuIurtj7vm7FZTVnLnGZjJ/view?usp=sharing">📄 My Resume</a>
 </p>
 
 ---
